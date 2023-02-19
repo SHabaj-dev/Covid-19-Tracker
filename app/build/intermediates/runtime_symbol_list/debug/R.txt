@@ -2057,7 +2057,6 @@ int id iv_map 0x7f0900d4
 int id iv_search 0x7f0900d5
 int id jumpToEnd 0x7f0900d6
 int id jumpToStart 0x7f0900d7
-int id lab_coordinator 0x7f0900d8
 int id labeled 0x7f0900d9
 int id layout 0x7f0900da
 int id layout2 0x7f0900db
@@ -2170,7 +2169,6 @@ int id position 0x7f090145
 int id postLayout 0x7f090146
 int id progress_circular 0x7f090147
 int id progress_horizontal 0x7f090148
-int id project_coordinator 0x7f090149
 int id radio 0x7f09014a
 int id ratio 0x7f09014b
 int id recovered_percentage 0x7f09014c
@@ -2187,7 +2185,6 @@ int id right_icon 0x7f090156
 int id right_side 0x7f090157
 int id rounded 0x7f090158
 int id row_index_key 0x7f090159
-int id sakshi_shukla 0x7f09015a
 int id save_non_transition_alpha 0x7f09015b
 int id save_overlay_view 0x7f09015c
 int id sawtooth 0x7f09015d
@@ -2212,7 +2209,6 @@ int id select_dialog_listview 0x7f09016f
 int id selected 0x7f090170
 int id selection_type 0x7f090171
 int id selector 0x7f090172
-int id shabaj_profile 0x7f090173
 int id shortcut 0x7f090174
 int id showCustom 0x7f090175
 int id showHome 0x7f090176
@@ -2244,8 +2240,6 @@ int id staticPostLayout 0x7f09018f
 int id statusLayout 0x7f090190
 int id stop 0x7f090191
 int id stretch 0x7f090192
-int id student_member 0x7f090193
-int id student_member2 0x7f090194
 int id submenuarrow 0x7f090195
 int id submit_area 0x7f090196
 int id tabMode 0x7f090197
@@ -2262,7 +2256,6 @@ int id tag_transition_group 0x7f0901a1
 int id tag_unhandled_key_event_manager 0x7f0901a2
 int id tag_unhandled_key_listeners 0x7f0901a3
 int id tag_window_insets_animation_callback 0x7f0901a4
-int id teacher_info 0x7f0901a5
 int id test_checkbox_android_button_tint 0x7f0901a6
 int id test_checkbox_app_button_tint 0x7f0901a7
 int id test_radiobutton_android_button_tint 0x7f0901a8
@@ -2397,7 +2390,6 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0c0018
 int layout abc_search_view 0x7f0c0019
 int layout abc_select_dialog_material 0x7f0c001a
 int layout abc_tooltip 0x7f0c001b
-int layout about 0x7f0c001c
 int layout activity_country_list 0x7f0c001d
 int layout activity_home_screen 0x7f0c001e
 int layout activity_news 0x7f0c001f

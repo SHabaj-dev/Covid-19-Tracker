@@ -116,10 +116,6 @@
         "source": "D:\\Projects\\Project\\Covid-19\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_bug_fixed.png"
     },
     {
-        "merged": "D:\\Projects\\Project\\Covid-19\\app\\build\\intermediates\\merged_res\\debug\\layout_about.xml.flat",
-        "source": "D:\\Projects\\Project\\Covid-19\\app\\src\\main\\res\\layout\\about.xml"
-    },
-    {
         "merged": "D:\\Projects\\Project\\Covid-19\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_doctor_prevention.png.flat",
         "source": "D:\\Projects\\Project\\Covid-19\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_doctor_prevention.png"
     },
@@ -136,20 +132,20 @@
         "source": "D:\\Projects\\Project\\Covid-19\\app\\src\\main\\res\\drawable\\ic_joint.xml"
     },
     {
-        "merged": "D:\\Projects\\Project\\Covid-19\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_bug_fixed.png.flat",
-        "source": "D:\\Projects\\Project\\Covid-19\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_bug_fixed.png"
-    },
-    {
         "merged": "D:\\Projects\\Project\\Covid-19\\app\\build\\intermediates\\merged_res\\debug\\drawable_saijal_img.jpg.flat",
         "source": "D:\\Projects\\Project\\Covid-19\\app\\src\\main\\res\\drawable\\saijal_img.jpg"
     },
     {
-        "merged": "D:\\Projects\\Project\\Covid-19\\app\\build\\intermediates\\merged_res\\debug\\font_lato_regular.ttf.flat",
-        "source": "D:\\Projects\\Project\\Covid-19\\app\\src\\main\\res\\font\\lato_regular.ttf"
+        "merged": "D:\\Projects\\Project\\Covid-19\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_bug_fixed.png.flat",
+        "source": "D:\\Projects\\Project\\Covid-19\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_bug_fixed.png"
     },
     {
         "merged": "D:\\Projects\\Project\\Covid-19\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_fever.xml.flat",
         "source": "D:\\Projects\\Project\\Covid-19\\app\\src\\main\\res\\drawable\\ic_fever.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Project\\Covid-19\\app\\build\\intermediates\\merged_res\\debug\\font_lato_regular.ttf.flat",
+        "source": "D:\\Projects\\Project\\Covid-19\\app\\src\\main\\res\\font\\lato_regular.ttf"
     },
     {
         "merged": "D:\\Projects\\Project\\Covid-19\\app\\build\\intermediates\\merged_res\\debug\\drawable_card_bg.xml.flat",

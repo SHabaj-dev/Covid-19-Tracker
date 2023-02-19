@@ -2058,7 +2058,6 @@ id iv_map
 id iv_search
 id jumpToEnd
 id jumpToStart
-id lab_coordinator
 id labeled
 id layout
 id layout2
@@ -2171,7 +2170,6 @@ id position
 id postLayout
 id progress_circular
 id progress_horizontal
-id project_coordinator
 id radio
 id ratio
 id recovered_percentage
@@ -2188,7 +2186,6 @@ id right_icon
 id right_side
 id rounded
 id row_index_key
-id sakshi_shukla
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -2213,7 +2210,6 @@ id select_dialog_listview
 id selected
 id selection_type
 id selector
-id shabaj_profile
 id shortcut
 id showCustom
 id showHome
@@ -2245,8 +2241,6 @@ id staticPostLayout
 id statusLayout
 id stop
 id stretch
-id student_member
-id student_member2
 id submenuarrow
 id submit_area
 id tabMode
@@ -2263,7 +2257,6 @@ id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id tag_window_insets_animation_callback
-id teacher_info
 id test_checkbox_android_button_tint
 id test_checkbox_app_button_tint
 id test_radiobutton_android_button_tint
@@ -2398,7 +2391,6 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-layout about
 layout activity_country_list
 layout activity_home_screen
 layout activity_news

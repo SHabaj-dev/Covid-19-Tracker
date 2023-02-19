@@ -4,7 +4,6 @@ import android.content.Intent
 import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.shabaj.covid_19.AboutActivity
 import com.shabaj.covid_19.AppConstants
 import com.shabaj.covid_19.R
 import com.shabaj.covid_19.countryList.CountryListActivity
@@ -28,6 +27,5 @@ class HomeScreenActivity : AppCompatActivity() {
         ll4.setOnClickListener { startActivity(Intent(this@HomeScreenActivity, CountryListActivity::class.java)) }
         newsLayout.setOnClickListener { startActivity(Intent(this@HomeScreenActivity, NewsActivity::class.java)) }
         visitWHO.setOnClickListener {  startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(AppConstants.whoUrl)))}
-        infoButton.setOnClickListener{ startActivity(Intent(Intent(this,AboutActivity::class.java)))}
     }
 }
